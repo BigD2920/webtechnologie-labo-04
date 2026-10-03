@@ -41,7 +41,7 @@ Zonder pseudo-selectoren, gewoon om de pagina leesbaar te maken:
   * gecentreerde tekst op een achtergrond `#1a1a1a` met witte tekst
 * `nav ul`
   * geen opsommingstekens
-  * geen inspringing links
+  -* geen inspringing links
   * de drie items staan naast elkaar (gebruik hier `display: inline-block` op de `li`)
   * 10px ruimte rechts van elk item
 * `nav a`
