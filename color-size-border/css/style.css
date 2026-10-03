@@ -1,0 +1,24 @@
+h1 {
+    font-size: 32px;
+    color: rebeccapurple;
+    font-weight: bold;
+    padding: 20px;
+
+}
+h2 {
+    font-size: 28px;
+    color: rebeccapurple;
+    font-weight: bold;
+    text-decoration: underline;
+    padding: 20px;
+
+}
+
+p {
+    font-size: 16px;
+    padding: 20px;
+
+}
+img {
+    border: dashed 5px;
+}

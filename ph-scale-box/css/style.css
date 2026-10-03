@@ -1,0 +1,63 @@
+body {
+  padding: 20px;
+  background-color: rgb(193, 193, 193);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    background-color: rgb(224, 224, 224);
+  padding: 20px;
+  font-size: 40px;
+  color: rgb(97, 98, 92);
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+p {
+  padding: 5px;
+  color: white;
+}
+p:first-of-type {
+    background-color: rgb(0, 136, 221);
+}
+p:nth-of-type(2) {
+    background-color: rgb(0, 149, 226);
+}
+p:nth-of-type(3) {
+    background-color: rgb(0, 160, 230);
+}
+p:nth-of-type(4) {
+    background-color: rgb(48, 170, 233);
+}
+p:nth-of-type(5) {
+    background-color: rgb(84, 182, 237);
+}
+p:nth-of-type(6) {
+    background-color: rgb(114, 193, 240);
+}
+p:nth-of-type(7) {
+    background-color: rgb(140, 202, 242);
+}
+p:nth-of-type(8) {
+    background-color: rgb(0, 187, 136);
+}
+p:nth-of-type(9) {
+    background-color: rgb(245, 176, 204);
+}
+p:nth-of-type(10) {
+    background-color: rgb(246, 159, 192);
+}
+p:nth-of-type(11) {
+    background-color: rgb(245, 140, 178);
+}
+p:nth-of-type(12) {
+    background-color: rgb(244, 123, 166);
+}
+p:nth-of-type(13) {
+    background-color: rgb(243, 106, 151);
+}
+p:nth-of-type(14) {
+    background-color: rgb(244, 90, 139);
+}
+p:nth-of-type(15) {
+    background-color: rgb(238, 63, 128);
+}
