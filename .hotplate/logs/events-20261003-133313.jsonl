@@ -1,0 +1,593 @@
+{"ts":"2026-10-03T13:33:13.551Z","session":"20261003-133313","kind":"server_start","data":{"port":5500,"host":"0.0.0.0","root":"c:\\Users\\difig\\AP\\WebTechnologie S1\\Labos\\webtechnologie-labo-04","https":false,"live_reload":true}}
+{"ts":"2026-10-03T13:33:13.938Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/background-padding/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-03T13:33:14.050Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/background-padding/css/style.css","status":200,"duration_ms":47}}
+{"ts":"2026-10-03T13:33:14.081Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c0","url":"http://localhost:5500/background-padding/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T13:33:14.147Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c1","url":"http://localhost:5500/Labos/webtechnologie-labo-04/vierde/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T13:33:15.768Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c0"}}
+{"ts":"2026-10-03T13:33:16.684Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c2","url":"http://localhost:5500/Labos/webtechnologie-labo-04/universal-box/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T13:33:52.252Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/reset.css","ext":"css","change":"create"}}
+{"ts":"2026-10-03T13:33:52.252Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/reset.css","reload_type":"css"}}
+{"ts":"2026-10-03T13:33:52.252Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/reset.css","reload_type":"css"}}
+{"ts":"2026-10-03T13:33:52.330Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/Labos/webtechnologie-labo-04/universal-box/index.html","status":404,"duration_ms":3}}
+{"ts":"2026-10-03T13:33:52.330Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/Labos/webtechnologie-labo-04/vierde/index.html","status":404,"duration_ms":10}}
+{"ts":"2026-10-03T13:33:52.429Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c1"}}
+{"ts":"2026-10-03T13:33:52.431Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c2"}}
+{"ts":"2026-10-03T13:34:02.941Z","session":"20261003-133313","kind":"file_change","data":{"path":"reset-vs-normalize/css/reset.css","ext":"css","change":"create"}}
+{"ts":"2026-10-03T13:35:28.383Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T13:35:30.360Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T13:35:32.036Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T13:35:35.821Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T13:35:39.211Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T13:35:44.452Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T13:35:49.228Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T13:36:32.381Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T13:36:43.914Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T13:44:45.114Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T13:44:46.626Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:00:37.058Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/normalize.css","ext":"css","change":"create"}}
+{"ts":"2026-10-03T14:00:47.469Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:00:50.873Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:01:22.276Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:01:24.194Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:01:25.651Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:01:33.134Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:01:35.105Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:01:41.402Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:01:50.006Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:01:52.150Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:01:56.795Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:01:57.852Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:14.875Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:16.552Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:17.575Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:19.397Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:28.026Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:29.731Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:32.252Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:34.826Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:37.938Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:42.174Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:45.249Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:46.773Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:51.904Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:02:53.694Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:03:04.325Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:03:09.018Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:03:11.177Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:03:14.065Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:03:19.051Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:03:23.817Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:03:51.341Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:03:53.191Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:03:57.444Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:03:59.830Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:04:02.070Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:04:04.439Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:04:10.462Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:04:13.840Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:04:17.309Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:04:24.593Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:04:35.332Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-03T14:04:35.372Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":200,"duration_ms":2}}
+{"ts":"2026-10-03T14:04:35.382Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/styl%20%20%20%20e.css","status":404,"duration_ms":0}}
+{"ts":"2026-10-03T14:04:35.436Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c3","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:05:18.562Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/reset.css","ext":"css","change":"remove"}}
+{"ts":"2026-10-03T14:05:18.562Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/reset.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:05:18.579Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:05:18.590Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c3"}}
+{"ts":"2026-10-03T14:05:18.635Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:05:18.655Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/styl%20%20%20%20e.css","status":404,"duration_ms":0}}
+{"ts":"2026-10-03T14:05:18.697Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c4","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:09:07.436Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:09:07.436Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:09:07.470Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":15}}
+{"ts":"2026-10-03T14:09:07.476Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c4"}}
+{"ts":"2026-10-03T14:09:07.512Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:09:07.513Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:09:07.562Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c5","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:10:26.716Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:10:26.717Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:10:26.731Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:10:26.743Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c5"}}
+{"ts":"2026-10-03T14:10:26.783Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:10:26.785Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:10:26.834Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c6","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:10:27.836Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:10:27.836Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:10:27.852Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:10:27.864Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c6"}}
+{"ts":"2026-10-03T14:10:27.924Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:10:27.931Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:10:27.947Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c7","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:10:30.060Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:10:30.060Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:10:30.077Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:10:30.087Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c7"}}
+{"ts":"2026-10-03T14:10:30.157Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:10:30.158Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:10:30.174Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c8","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:11:06.838Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c8"}}
+{"ts":"2026-10-03T14:13:09.110Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:13:12.343Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:13:17.663Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:13:20.205Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:13:31.637Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:13:31.678Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:13:31.690Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:13:31.747Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c9","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:13:37.444Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:13:37.444Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:13:37.455Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:13:37.463Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c9"}}
+{"ts":"2026-10-03T14:13:37.510Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:13:37.511Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:13:37.519Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c10","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:13:53.919Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:13:53.919Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:13:53.932Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:13:53.941Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c10"}}
+{"ts":"2026-10-03T14:13:53.976Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:13:53.977Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:13:54.022Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c11","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:14:04.852Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:14:04.852Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:14:04.867Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:04.875Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c11"}}
+{"ts":"2026-10-03T14:14:04.936Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:04.937Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:04.952Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c12","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:14:19.956Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:14:19.956Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:14:19.972Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-03T14:14:19.978Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c12"}}
+{"ts":"2026-10-03T14:14:20.012Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:20.013Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:20.057Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c13","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:14:23.557Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:14:23.557Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:14:23.572Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:23.582Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c13"}}
+{"ts":"2026-10-03T14:14:23.644Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:23.646Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:23.658Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c14","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:14:33.421Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:14:33.421Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:14:33.435Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:33.446Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c14"}}
+{"ts":"2026-10-03T14:14:33.489Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:33.504Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:33.520Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c15","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:14:35.683Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:14:35.683Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:14:35.698Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-03T14:14:35.705Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c15"}}
+{"ts":"2026-10-03T14:14:35.761Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:35.763Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:35.783Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c16","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:14:37.179Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:14:37.179Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:14:37.194Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:37.204Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c16"}}
+{"ts":"2026-10-03T14:14:37.259Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:37.261Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:37.277Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c17","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:14:39.825Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:14:39.825Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:14:39.840Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-03T14:14:39.848Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c17"}}
+{"ts":"2026-10-03T14:14:39.889Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:39.906Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:39.929Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c18","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:14:48.515Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:14:48.515Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:14:48.636Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":108}}
+{"ts":"2026-10-03T14:14:48.642Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c18"}}
+{"ts":"2026-10-03T14:14:48.672Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:48.673Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:48.686Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c19","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:14:58.907Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:14:58.907Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:14:58.920Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-03T14:14:58.928Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c19"}}
+{"ts":"2026-10-03T14:14:58.962Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:58.963Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:14:59.009Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c20","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:15:01.001Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:15:01.001Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:15:01.016Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:01.023Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c20"}}
+{"ts":"2026-10-03T14:15:01.085Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:01.086Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:01.102Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c21","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:15:03.702Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:15:03.702Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:15:03.717Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:03.725Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c21"}}
+{"ts":"2026-10-03T14:15:03.785Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:03.787Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:03.804Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c22","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:15:13.770Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:15:13.770Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:15:13.784Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:13.792Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c22"}}
+{"ts":"2026-10-03T14:15:13.851Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:13.853Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:13.868Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c23","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:15:15.121Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:15:15.121Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:15:15.134Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:15.142Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c23"}}
+{"ts":"2026-10-03T14:15:15.198Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:15.201Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:15.215Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c24","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:15:19.438Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:15:19.438Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:15:19.452Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:19.462Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c24"}}
+{"ts":"2026-10-03T14:15:19.527Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:19.532Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:19.550Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c25","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:15:20.621Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:15:20.621Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:15:20.636Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:20.644Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c25"}}
+{"ts":"2026-10-03T14:15:20.702Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:20.703Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:20.721Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c26","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:15:22.554Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:15:22.555Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:15:22.569Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-03T14:15:22.576Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c26"}}
+{"ts":"2026-10-03T14:15:22.630Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:22.632Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:22.654Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c27","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:15:24.101Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:15:24.101Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:15:24.116Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:24.124Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c27"}}
+{"ts":"2026-10-03T14:15:24.155Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:24.156Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:24.200Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c28","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:15:42.379Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:15:42.379Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:15:42.393Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:42.405Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c28"}}
+{"ts":"2026-10-03T14:15:42.461Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:42.462Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:42.486Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c29","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:15:44.544Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:15:44.544Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:15:44.558Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-03T14:15:44.567Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c29"}}
+{"ts":"2026-10-03T14:15:44.631Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:44.633Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:44.652Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c30","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:15:51.273Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:15:51.273Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:15:51.291Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":4}}
+{"ts":"2026-10-03T14:15:51.297Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c30"}}
+{"ts":"2026-10-03T14:15:51.341Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:51.355Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:51.369Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c31","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:15:52.573Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:15:52.574Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:15:52.592Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-03T14:15:52.600Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c31"}}
+{"ts":"2026-10-03T14:15:52.675Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:52.682Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:15:52.721Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c32","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:16:15.166Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:16:15.166Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:16:15.182Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:15.191Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c32"}}
+{"ts":"2026-10-03T14:16:15.258Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:15.259Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:15.275Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c33","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:16:34.077Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:16:34.077Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:16:34.094Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-03T14:16:34.103Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c33"}}
+{"ts":"2026-10-03T14:16:34.166Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:34.183Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:34.204Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c34","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:16:38.358Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:16:38.358Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:16:38.370Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:38.377Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c34"}}
+{"ts":"2026-10-03T14:16:38.405Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:38.406Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:38.451Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c35","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:16:42.130Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:16:42.130Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:16:42.144Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:42.152Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c35"}}
+{"ts":"2026-10-03T14:16:42.184Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:42.185Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:42.236Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c36","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:16:48.515Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:16:48.515Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:16:48.535Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":6}}
+{"ts":"2026-10-03T14:16:48.544Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c36"}}
+{"ts":"2026-10-03T14:16:48.602Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:48.603Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:48.620Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c37","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:16:55.169Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:16:55.169Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:16:55.183Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:55.191Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c37"}}
+{"ts":"2026-10-03T14:16:55.252Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:55.253Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:55.270Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c38","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:16:56.619Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:16:56.619Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:16:56.634Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-03T14:16:56.642Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c38"}}
+{"ts":"2026-10-03T14:16:56.710Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:56.712Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:16:56.729Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c39","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:17:28.034Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:17:28.034Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:17:28.048Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:28.060Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c39"}}
+{"ts":"2026-10-03T14:17:28.099Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:28.100Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:28.149Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c40","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:17:31.468Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:17:31.468Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:17:31.482Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:31.490Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c40"}}
+{"ts":"2026-10-03T14:17:31.518Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:31.519Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:31.565Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c41","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:17:37.070Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:17:37.070Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:17:37.084Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:37.093Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c41"}}
+{"ts":"2026-10-03T14:17:37.144Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:37.159Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:37.178Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c42","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:17:39.194Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:17:39.194Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:17:39.210Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-03T14:17:39.220Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c42"}}
+{"ts":"2026-10-03T14:17:39.255Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:39.277Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:39.310Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c43","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:17:46.679Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:17:46.679Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:17:46.691Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:46.701Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c43"}}
+{"ts":"2026-10-03T14:17:46.742Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:46.743Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:46.778Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c44","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:17:49.195Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:17:49.195Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:17:49.210Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:49.222Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c44"}}
+{"ts":"2026-10-03T14:17:49.284Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:49.285Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:49.304Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c45","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:17:53.437Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:17:53.437Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:17:53.452Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:53.461Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c45"}}
+{"ts":"2026-10-03T14:17:53.532Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:53.533Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:53.549Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c46","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:17:56.908Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:17:56.908Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:17:56.922Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:56.931Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c46"}}
+{"ts":"2026-10-03T14:17:56.973Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:56.988Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:17:57.013Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c47","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:18:02.410Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:18:02.410Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:18:02.426Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:02.436Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c47"}}
+{"ts":"2026-10-03T14:18:02.495Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:02.496Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:02.515Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c48","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:18:06.049Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:18:06.049Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:18:06.062Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:06.072Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c48"}}
+{"ts":"2026-10-03T14:18:06.128Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:06.129Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:06.151Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c49","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:18:08.262Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:18:08.263Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:18:08.275Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:08.285Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c49"}}
+{"ts":"2026-10-03T14:18:08.355Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:08.357Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:08.374Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c50","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:18:09.290Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:18:09.290Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:18:09.303Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:09.312Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c50"}}
+{"ts":"2026-10-03T14:18:09.349Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:09.350Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:09.384Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c51","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:18:11.162Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:18:11.162Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:18:11.175Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:11.184Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c51"}}
+{"ts":"2026-10-03T14:18:11.235Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:11.237Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:11.258Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c52","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:18:58.825Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:18:58.826Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:18:58.839Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:58.855Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c52"}}
+{"ts":"2026-10-03T14:18:58.920Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:58.923Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:18:58.943Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c53","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:19:00.711Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:19:00.711Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:19:00.725Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:00.736Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c53"}}
+{"ts":"2026-10-03T14:19:00.802Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:00.803Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:00.819Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c54","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:19:02.934Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:19:02.934Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:19:02.951Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:02.959Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c54"}}
+{"ts":"2026-10-03T14:19:03.027Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:03.029Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:03.044Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c55","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:19:04.854Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:19:04.854Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:19:04.867Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:04.876Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c55"}}
+{"ts":"2026-10-03T14:19:04.917Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:04.931Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:04.955Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c56","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:19:10.081Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:19:10.081Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:19:10.096Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:10.105Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c56"}}
+{"ts":"2026-10-03T14:19:10.175Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:10.177Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:10.198Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c57","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:19:12.818Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:19:12.818Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:19:12.833Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:12.839Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c57"}}
+{"ts":"2026-10-03T14:19:12.886Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:12.900Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:12.918Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c58","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:19:15.126Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-03T14:19:15.126Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-03T14:19:15.143Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:15.149Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c58"}}
+{"ts":"2026-10-03T14:19:15.181Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:15.195Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:15.231Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c59","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:19:48.531Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:19:48.531Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:19:48.553Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":9}}
+{"ts":"2026-10-03T14:19:48.561Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c59"}}
+{"ts":"2026-10-03T14:19:48.623Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:48.630Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:48.651Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c60","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:19:50.029Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:19:50.029Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:19:50.046Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":4}}
+{"ts":"2026-10-03T14:19:50.055Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c60"}}
+{"ts":"2026-10-03T14:19:50.126Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:50.128Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:50.141Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c61","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:19:52.629Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:19:52.629Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:19:52.643Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:52.653Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c61"}}
+{"ts":"2026-10-03T14:19:52.699Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:52.713Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:52.729Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c62","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:19:57.952Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:19:57.952Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:19:57.964Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:57.972Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c62"}}
+{"ts":"2026-10-03T14:19:58.031Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:58.032Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:19:58.047Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c63","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:20:02.736Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:20:02.736Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:20:02.748Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:20:02.760Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c63"}}
+{"ts":"2026-10-03T14:20:02.822Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:20:02.823Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:20:02.840Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c64","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:20:33.646Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:20:33.646Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:20:33.663Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:20:33.681Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c64"}}
+{"ts":"2026-10-03T14:20:33.712Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:20:33.712Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:20:33.724Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c65","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:20:49.043Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:20:49.043Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:20:49.059Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-03T14:20:49.064Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c65"}}
+{"ts":"2026-10-03T14:20:49.126Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:20:49.127Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:20:49.145Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c66","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:20:54.535Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:20:54.535Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:20:54.548Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:20:54.557Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c66"}}
+{"ts":"2026-10-03T14:20:54.619Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:20:54.623Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:20:54.642Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c67","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:21:00.767Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:21:00.767Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:21:00.782Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:21:00.790Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c67"}}
+{"ts":"2026-10-03T14:21:00.854Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:21:00.854Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:21:00.870Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c68","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:21:41.920Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:21:41.920Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:21:41.936Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":4}}
+{"ts":"2026-10-03T14:21:41.943Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c68"}}
+{"ts":"2026-10-03T14:21:41.973Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:21:41.973Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:21:42.017Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c69","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:21:44.692Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:21:44.692Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:21:44.705Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-03T14:21:44.713Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c69"}}
+{"ts":"2026-10-03T14:21:44.769Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:21:44.771Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:21:44.788Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c70","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:21:50.340Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:21:50.340Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:21:50.357Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":4}}
+{"ts":"2026-10-03T14:21:50.364Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c70"}}
+{"ts":"2026-10-03T14:21:50.431Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:21:50.436Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:21:50.453Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c71","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:21:54.384Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:21:54.384Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:21:54.399Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-03T14:21:54.405Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c71"}}
+{"ts":"2026-10-03T14:21:54.448Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:21:54.462Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:21:54.478Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c72","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:22:01.936Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:22:01.936Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:22:01.950Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-03T14:22:01.956Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c72"}}
+{"ts":"2026-10-03T14:22:01.996Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:22:02.011Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:22:02.025Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c73","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:22:10.126Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:22:10.126Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:22:10.144Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":6}}
+{"ts":"2026-10-03T14:22:10.154Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c73"}}
+{"ts":"2026-10-03T14:22:10.219Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:22:10.221Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:22:10.237Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c74","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:22:17.777Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:22:17.777Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:22:17.794Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":4}}
+{"ts":"2026-10-03T14:22:17.802Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c74"}}
+{"ts":"2026-10-03T14:22:17.866Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:22:17.868Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:22:17.887Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c75","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:23:18.646Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:23:18.646Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:23:18.663Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":5}}
+{"ts":"2026-10-03T14:23:18.673Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c75"}}
+{"ts":"2026-10-03T14:23:18.733Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:23:18.735Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:23:18.752Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c76","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
+{"ts":"2026-10-03T14:23:31.002Z","session":"20261003-133313","kind":"file_change","data":{"path":"block-vs-inline/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-03T14:23:31.002Z","session":"20261003-133313","kind":"reload_trigger","data":{"path":"block-vs-inline/index.html","reload_type":"full"}}
+{"ts":"2026-10-03T14:23:31.018Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-03T14:23:31.024Z","session":"20261003-133313","kind":"ws_disconnect","data":{"client_id":"c76"}}
+{"ts":"2026-10-03T14:23:31.092Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/normalize.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:23:31.093Z","session":"20261003-133313","kind":"http_request","data":{"method":"GET","path":"/block-vs-inline/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-03T14:23:31.109Z","session":"20261003-133313","kind":"ws_connect","data":{"client_id":"c77","url":"http://localhost:5500/block-vs-inline/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36","viewport":[1536,695]}}
